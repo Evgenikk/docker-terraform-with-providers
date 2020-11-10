@@ -20,7 +20,7 @@ terraform-provider-tls_v3.0.0_x5
 ```
 docker run --rm -it \
     -v $(pwd):/root/code \
-     <image name>/terraform:0.12.24  <Ваша команда терраформ>
+     <image name>/terraform:0.12.24  <terraform apply or whatever>
 ```
 
 ## To improve
