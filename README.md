@@ -1,6 +1,6 @@
 ## Docker terraform image
 
-Docker image with terraform 0.12.24, and preinstalled providers:
+Docker image with terraform 0.12.24 and preinstalled providers:
 ```
 terraform-provider-archive_v2.0.0_x5
 terraform-provider-helm_v1.3.2_x4
